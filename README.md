@@ -7,7 +7,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pitchapasaelim&show_icons=true&theme=highcontrast&title_color=ff7adc&text_color=ff0095&locale=en" alt="pitchapasaelim" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitchapasaelim&show_icons=true&theme=highcontrast&title_color=ff2954&text_color=ffc2c2&locale=en&layout=compact" alt="pitchapasaelim"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pitchapasaelim&theme=highcontrast" alt="pitchapasaelim" /></p>
 
 <h3 align="left">💌Contact to me:</h3>
 <p align="left">
