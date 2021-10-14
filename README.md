@@ -18,8 +18,10 @@
 
 <h3 align="left">💌Contact to me:</h3>
 <p align="left">
- <a href="mailto:%20pitchapa.saelim@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" height="20" width="30"/></a>
+<a href="mailto:%20pitchapa.saelim@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" height="20" width="30"/></a>
 <a href="https://fb.com/jeejee.pitchapa" target="blank"><img align="center" src="https://www.iconninja.com/files/387/198/566/logo-social-fb-facebook-icon.svg" alt="jeejee pitchapa" height="30" width="40" /></a>
 <a href="https://instagram.com/jeejee18" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="jeejee18" height="25" width="35" /></a>
+<a href="https://www.linkedin.com/in/pitchapa-sae-lim-482710223/" target="blank"><img align="center" src="https://www.img.in.th/images/30998bfecc8a387c50adf54ffaa9f731.png" alt="pitchapasaelim" height="45" width="75" /></a>
 </p>
+
 
