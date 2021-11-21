@@ -8,7 +8,7 @@
 <h3 align="left">About me |</h3>
 
 ```javascript
-const JEEJEE = {
+const JeeJee = {
   firstName: "Pitchapa",
   lastName: "Sae-lim",
   nickname: "JeeJee",
