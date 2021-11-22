@@ -21,7 +21,7 @@ const JeeJee = {
 
 <br>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pitchapasaelim&show_icons=true&theme=highcontrast&title_color=FFFFFF&text_color=FFFFFF&locale=en" width="350" alt="pitchapasaelim" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pitchapasaelim&show_icons=true&theme=highcontrast&title_color=FFFFFF&text_color=FFFFFF&locale=en" width="361" alt="pitchapasaelim" />
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitchapasaelim&show_icons=true&theme=highcontrast&title_color=FFFFFF&text_color=FFFFFF&locale=en&layout=compact" alt="pitchapasaelim"/></p>
 </div>
 
