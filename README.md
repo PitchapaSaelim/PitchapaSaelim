@@ -22,7 +22,9 @@ const JeeJee = {
 <br>
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pitchapasaelim&show_icons=true&theme=highcontrast&title_color=FFFFFF&text_color=FFFFFF&locale=en" width="361" alt="pitchapasaelim" />
-<img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitchapasaelim&show_icons=true&theme=highcontrast&title_color=FFFFFF&text_color=FFFFFF&locale=en&layout=compact" alt="pitchapasaelim"/></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PitchapaSaelim&langs_count=8&show_icons=true&theme=highcontrast&title_color=FFFFFF&text_color=FFFFFF&locale=en&layout=compact" />
+</a>
 </div>
 
 <h3 align="left">Contact me |</h3>
